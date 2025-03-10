@@ -1,9 +1,5 @@
 # PersonalFinanceManager-with-MERN
-![WhatsApp Image 2025-03-10 at 17 25 10_ca16d06a](https://github.com/user-attachments/assets/5ec5b069-613b-4f00-8dbb-a7bdd8de237e)
-
-
 ---
-
 # **Personal Finance Manager – A Smart MERN-Based Financial Tracker**  
 
 ## **🌟 Overview**  
@@ -11,6 +7,7 @@ Managing personal finances effectively is essential for financial stability, yet
 
 The **Personal Finance Manager** is a **MERN-based web application** designed to provide users with **real-time insights into their income and expenses**, helping them take **control of their financial health**. This system offers **an intuitive dashboard, categorized expense tracking, and insightful visualizations**, making financial management effortless and efficient.  
 
+![WhatsApp Image 2025-03-10 at 17 25 10_ca16d06a](https://github.com/user-attachments/assets/5ec5b069-613b-4f00-8dbb-a7bdd8de237e)
 ---
 
 ## **💡 Why This Project?**  
