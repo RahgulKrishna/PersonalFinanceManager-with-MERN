@@ -1,4 +1,6 @@
 # PersonalFinanceManager-with-MERN
+![WhatsApp Image 2025-03-10 at 17 25 10_ca16d06a](https://github.com/user-attachments/assets/5ec5b069-613b-4f00-8dbb-a7bdd8de237e)
+
 
 ---
 
@@ -27,6 +29,10 @@ The **Personal Finance Manager** is a **MERN-based web application** designed to
 🔹 **Smart Budgeting** – Allows users to **set and track financial goals** (future enhancement).  
 🔹 **Cloud-Based Storage** – Secure, scalable, and accessible anytime, anywhere.  
 🔹 **MERN Architecture** – Ensures **fast performance, robust security, and flexibility** for future growth.  
+![Screenshot 2025-03-10 170109](https://github.com/user-attachments/assets/f91cce01-1d3e-4926-b886-3e2b899a97b1)
+![Screenshot 2025-03-10 161202](https://github.com/user-attachments/assets/ae4c3e1c-595f-42a7-9678-329108e5ad96)
+![Screenshot 2025-03-10 170021](https://github.com/user-attachments/assets/ff3d9f40-34cd-47e2-9f77-fe71c6f8770d)
+
 
 ---
 
